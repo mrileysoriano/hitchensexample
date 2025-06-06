@@ -43,7 +43,7 @@ Little Ona is too excited to eat. Once in a while she tastes a little something,
 
 In this crisis, however, she is saved by Marija Berczynskas, whom the muses suddenly visit. Marija is fond of a song, a song of lovers’ parting; she wishes to hear it, and, as the musicians do not know it, she has risen, and is proceeding to teach them. Marija is short, but powerful in build. She works in a canning factory, and all day long she handles cans of beef that weigh fourteen pounds. She has a broad Slavic face, with prominent red cheeks. When she opens her mouth, it is tragical, but you cannot help thinking of a horse. She wears a blue flannel shirt-waist, which is now rolled up at the sleeves, disclosing her brawny arms; she has a carving fork in her hand, with which she pounds on the table to mark the time. As she roars her song, in a voice of which it is enough to say that it leaves no portion of the room vacant, the three musicians follow her, laboriously and note by note, but averaging one note behind; thus they toil through stanza after stanza of a lovesick swain’s lamentation:—
 
-“Sudiev’ kvietkeli, tu brangiausis;
+> “Sudiev’ kvietkeli, tu brangiausis;
 Sudiev’ ir laime, man biednam,
 Matau—paskyre teip Aukszcziausis,
 Jog vargt ant svieto reik vienam!”
