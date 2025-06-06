@@ -1,5 +1,5 @@
 ---
-title: The Jungle - Chapter 2
+title: Chapter 2
 layout: post
 author: Upton Sinclair
 category: literature
