@@ -1,11 +1,11 @@
 ---
-title: The Jungle - Chapter 1
+title: Chapter 1
 layout: post
 author: Upton Sinclair
 category: literature
 ---
 
-# [Chapter 1](https://www.marxists.org/history/usa/pubs/appeal-to-reason/050225-appealtoreason-w482-thejungle.pdf)
+# [A Packingtown Wedding](https://www.marxists.org/history/usa/pubs/appeal-to-reason/050225-appealtoreason-w482-thejungle.pdf)
 
 It was four o’clock when the ceremony was over and the carriages began to arrive. There had been a crowd following all the way, owing to the exuberance of Marija Berczynskas. The occasion rested heavily upon Marija’s broad shoulders—it was her task to see that all things went in due form, and after the best home traditions; and, flying wildly hither and thither, bowling every one out of the way, and scolding and exhorting all day with her tremendous voice, Marija was too eager to see that others conformed to the proprieties to consider them herself. She had left the church last of all, and, desiring to arrive first at the hall, had issued orders to the coachman to drive faster. When that personage had developed a will of his own in the matter, Marija had flung up the window of the carriage, and, leaning out, proceeded to tell him her opinion of him, first in Lithuanian, which he did not understand, and then in Polish, which he did. Having the advantage of her in altitude, the driver had stood his ground and even ventured to attempt to speak; and the result had been a furious altercation, which, continuing all the way down Ashland Avenue, had added a new swarm of urchins to the cortege at each side street for half a mile.
 
