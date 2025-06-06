@@ -3,15 +3,10 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Hello CDSsi Digital Publishing Cohort!
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+You have just discovered another GitHub Website that I've put together. While the Hitchens theme isn't my favorite (it's so yellow!), it is nevertheless a great theme for displaying book-like content without using Bookdown (which you'll learn more about on Wednesday!). 
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+More than anything, I wanted to show you that it is possible to build out a fully functioning, Markdown-based website it no more than 15 minutes. You're site might not look great with just 15 minutes of work but it gets the job done!
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+If you're interested in learning more about this theme or any other, please feel free to contact [me](mailto:mrs319@miami.edu) or to simply chat with me throughout the course of the week!
